@@ -7,7 +7,7 @@
   <p style="font-size: 20px">The name's de-y. I am a high-school python programmer (now onto other languages) who is building bigger, better projects <a href="https://github.com/avnce">@avnce</a>.</p>
   
   <br><br>
-  <p> I have been passionate about programming and how computers work for a lot of time before I made my debut on GitHub. I have thus been building applications left and right in python, and now I am extending my knowledge onto new languages and frameworks, making newer and better software. The hub for where I'll be experimenting and learning new things is at the <a href="https://github.com/De-y/d-Sandbox">sandbox</a>.</p> <br> <br>
+  <p> I have been passionate about programming and how computers work for a lot of time before I made my debut on GitHub. I have thus been building applications left and right in python, and now I am extending my knowledge onto new languages and frameworks, making newer and better software. The hub for where I'll be experimenting and learning new things is at the <a href="https://github.com/De-y/sandbox">sandbox</a>.</p> <br> <br>
 <br><br>
 <hr>
 <div style="display:block;">
