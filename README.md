@@ -1,6 +1,6 @@
 
-  <code>> python3 app.py</code><br><br>
-  
+![Introductions](https://github.com/De-y/de-y/assets/61808223/43a4ba60-a532-4866-af11-94bb96ff8799)
+
 <div align="center">
   
   <h1> Hello!👋 </h1>
