@@ -1,5 +1,5 @@
 
-![Introductions](https://github.com/De-y/de-y/assets/61808223/43a4ba60-a532-4866-af11-94bb96ff8799)
+![Introduction](https://github.com/De-y/de-y/assets/61808223/f17955b8-fc01-4022-a936-4deed8508b17)
 
 <div align="center">
   
