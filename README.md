@@ -1,7 +1,9 @@
-
+<img src="https://github.com/user-attachments/assets/873d2e0c-861d-4d1f-8808-1705b63e322c" />
 <div align="center">
+
   
   <h1> Hello!👋 </h1>
+
   <p style="font-size: 20px">The name's Lambda I am a high-school python programmer (now onto other languages) who is building bigger, better projects <a href="https://github.com/horizlabs">@Horizon Labs</a>.</p>
   
   <br><br>
