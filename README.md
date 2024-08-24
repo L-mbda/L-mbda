@@ -1,10 +1,8 @@
 
-![Introduction](https://github.com/De-y/de-y/assets/61808223/f17955b8-fc01-4022-a936-4deed8508b17)
-
 <div align="center">
   
   <h1> Hello!👋 </h1>
-  <p style="font-size: 20px">The name's de-y. I am a high-school python programmer (now onto other languages) who is building bigger, better projects <a href="https://github.com/avnce">@avnce</a>.</p>
+  <p style="font-size: 20px">The name's Lambda I am a high-school python programmer (now onto other languages) who is building bigger, better projects <a href="https://github.com/horizlabs">@Horizon Labs</a>.</p>
   
   <br><br>
   <p> I have been passionate about programming and how computers work for a lot of time before I made my debut on GitHub. I have thus been building applications left and right in python, and now I am extending my knowledge onto new languages and frameworks, making newer and better software. The hub for where I'll be experimenting and learning new things is at the <a href="https://github.com/De-y/sandbox">sandbox</a>.</p> <br> <br>
