@@ -14,7 +14,7 @@
 <div style="display:inline;">
   <p>Skills that I am good at: </p>  
 
-  [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,cpp,css,vue,nuxt,flask,bootstrap,tailwind,nginx,prisma,pr,ai&theme=light&perline=5&size=100)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,cpp,css,vue,nuxt,flask,bootstrap,tailwind,nginx,drizzle,pr,ai&theme=light&perline=5&size=100)](https://skillicons.dev)
 </div>
 <div style="display:inline;">
   <p>Skills that I am trying to get good at:</p>
